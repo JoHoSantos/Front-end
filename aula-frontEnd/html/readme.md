@@ -24,3 +24,11 @@ Utilizaremos a TAG de lista desordenada
 
 o CARGO, por em Negrito
 <b>CARGO</b>
+
+
+<main>
+<section id="sobre">
+<section id="midias">
+<section id="redes">
+
+</main>
